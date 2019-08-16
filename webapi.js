@@ -1,4 +1,4 @@
-//接口鉴权chenjl
+//接口鉴权chenjl111
 var APIKey = "1111"
 var apiSecret ="1111111"
 var host="host: ws-api.xfyun.cn"
